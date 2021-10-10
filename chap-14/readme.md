@@ -12,6 +12,6 @@
 
 6. Valgrind complains -> Invalid write of size 4
 
-7. 
+7. This results in a runtime error free() : invalid pointer
 
 
