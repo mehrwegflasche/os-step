@@ -10,5 +10,8 @@
 
 5. Valgrind mentions -> definitely lost: 100 bytes in 1 blocks
 
-6. 
+6. Valgrind complains -> Invalid write of size 4
+
+7. 
+
 
